@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\bin\Debug\net7.0\MergeSort.exe
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\bin\Debug\net7.0\MergeSort.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\bin\Debug\net7.0\MergeSort.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\bin\Debug\net7.0\MergeSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\bin\Debug\net7.0\MergeSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\refint\MergeSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\MergeSort.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\MergeSort\obj\Debug\net7.0\ref\MergeSort.dll
